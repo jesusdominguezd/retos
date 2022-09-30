@@ -1,6 +1,6 @@
 # IP Checker
 
-Este script en python evala mediante scraping una ip para determinar su origen y si pertenece a algun servicio de anonimato
+Este script en python evalua mediante scraping una ip para determinar su origen y si pertenece a algun servicio de anonimato
 
 Realiza un script en python que solicite al usuario una dirección IP y realice scraping para obtener 
 
@@ -9,7 +9,7 @@ Realiza un script en python que solicite al usuario una dirección IP y realice 
 * Ubicación
 * ¿Pertenece a algún servicio de anonimato?
 
-![alt text](/img/video.gif)
+![alt text](./img/video.gif)
 
 # Install
 El script se probo en la ultima version de Ubuntu con el driver de FireFox
@@ -42,7 +42,7 @@ Usage: ./check_ip.py <IP>
 ```
 
 # Examples
-![alt text](/img/example_1.png)
-![alt text](/img/example_2.png)
-![alt text](/img/example_3.png)
-![alt text](/img/example_4.png)
+![alt text](./img/example_1.png)
+![alt text](./img/example_2.png)
+![alt text](./img/example_3.png)
+![alt text](./img/example_4.png)
